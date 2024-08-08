@@ -48,7 +48,7 @@ To use this project, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone <repository_url>
+    git clone https://github.com/justinliu23/real-time-object-detection.git
     cd <repository_directory>
     ```
 
